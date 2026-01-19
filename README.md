@@ -222,9 +222,6 @@ This project is currently unlicensed. Please refer to the repository owner, [Bub
 If you have any questions, suggestions, or encounter issues, please feel free to reach out:
 
 *   🐛 **Issues**: Submit bug reports or feature requests on the [GitHub Issues page](https://github.com/Bubane/Image-Classification-Using-CNN/issues).
-*   <!-- TODO: Add a contact email address if preferred for direct communication. -->
-
----
 
 <div align="center">
 
