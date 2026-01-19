@@ -31,7 +31,14 @@ This repository presents a deep learning solution focused on image classificatio
 *   **Data Preprocessing**: (Inferred) Includes functionalities for preparing image data, such as normalization, resizing, and augmentation, before feeding it into the network.
 *   **Visualizations**: (Inferred) Capabilities for visualizing training history (loss/accuracy curves), model architecture, and classification results (e.g., misclassified images, confusion matrices).
 
-## 🖥️ Screenshots
+## 📸 Project Screenshots
+
+### Model Training
+![Model Training](Screenshot%202026-01-19%20115902.png)
+
+### Prediction Output
+![Prediction](Screenshot%202026-01-19%20115839.png)
+
 
 <!-- TODO: Add actual screenshots or animated GIFs illustrating training progress, model architecture, or example classification results. -->
 
@@ -142,33 +149,10 @@ Image-Classification-Using-CNN/
 
 ## ⚙️ Configuration
 
-### Environment Variables
-*(No environment variables were explicitly detected in the current repository contents. If your project uses them for sensitive information or configuration, please list them here.)*
-
-| Variable | Description | Default | Required |
-
-|----------|-------------|---------|----------|
-
-| `(None detected)` | | | |
 
 ### Configuration Files
 *   **`requirements.txt`**: (Inferred) This file should list all required Python packages and their versions to ensure a consistent development and execution environment.
 *   *(TODO: List any other specific configuration files, e.g., `config.yaml` for model hyperparameters, if present, and describe their purpose.)*
-
-## 🔧 Development
-
-### Available Scripts
-*(Assuming typical scripts for a machine learning project)*
-
-| Command | Description |
-
-|---------|-------------|
-
-| `python train.py` | Initiates the training process of the CNN model. |
-
-| `python evaluate.py` | Runs the evaluation of a trained model on a test set. |
-
-| `jupyter notebook` | Launches the Jupyter environment for interactive development. |
 
 ### Development Workflow
 1.  **Environment Setup**: Follow the "Quick Start" installation steps to set up your development environment.
